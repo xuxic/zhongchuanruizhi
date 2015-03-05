@@ -13,7 +13,7 @@ sudo -E apt-get install python-imaging
 # install python-dev
 sudo -E apt-get install python-dev
 
-# put xuxc_site_index.html to root@zhongchuan-server:/data/home/website2/htdocs/siteadmin/template/
+# put xuxc_site_index.html to root@zhongchuan-server:/data/home/website2/htdocs/siteadmin/include/template/
 
 # put xuxc.php to root@zhongchuan-server:/data/home/website2/htdocs/siteadmin/
 
