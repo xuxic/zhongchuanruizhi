@@ -15,6 +15,8 @@ sudo -E apt-get install python-dev
 
 # put xuxc_site_index.html to root@zhongchuan-server:/data/home/website2/htdocs/siteadmin/template/
 
-# access my page from http://zhongchuan-server/siteadmin/xuxc_index.php
+# put xuxc.php to root@zhongchuan-server:/data/home/website2/htdocs/siteadmin/
+
+# access my page from http://zhongchuan-server/siteadmin/xuxc.php
 
 
